@@ -1,0 +1,34 @@
+.Blue{
+    background-color:blue;
+    color: white;
+    margin-left: 600px;
+    margin-right:600px;
+}
+
+.Red{
+    background-color:red;
+    color: white;
+    margin-left: 600px;
+    margin-right:600px;
+
+}
+
+.Yellow{
+    background-color:yellow;
+    margin-left: 600px;
+    color: black;
+    margin-right:600px;
+
+}
+
+.Fan{
+    background-color:green;
+    color:white;
+    margin-left: 600px;
+    margin-right:600px;
+
+}
+
+.normal{
+    color:white;
+}

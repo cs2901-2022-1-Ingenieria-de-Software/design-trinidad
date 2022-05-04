@@ -1,0 +1,26 @@
+[
+ {  
+    "id":1,
+    "nombre":"Red light",
+    "encendido": false,
+    "classCss": "Red"
+},
+{
+    "id":2,
+    "nombre":"Yellow light",
+    "encendido": false,
+    "classCss": "Yellow"
+},
+{
+    "id":3,
+    "nombre":"Blue light",
+    "encendido": false,
+    "classCss": "Blue"
+},
+{
+    "id":4,
+    "nombre":"Fan",
+    "encendido": false,
+    "classCss": "Fan"
+}
+]
