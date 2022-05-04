@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import data from "./json/data.json"
 import Light from './components/Light';
